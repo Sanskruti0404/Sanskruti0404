@@ -37,7 +37,7 @@ A project aimed at creating a question-answering system using retrieval-augmente
 
 ## 📚 Continuous Learning
 
-I have a hobby of reading and understanding research papers to stay updated with the latest advancements in my field. The last research paper I learned about was PbRL (Policy-based Reinforcement Learning).
+I have a hobby of reading and understanding research papers to stay updated with the latest advancements in my field.
 
 ## 🌐 Connect with Me
 
